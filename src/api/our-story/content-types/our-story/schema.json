@@ -4,7 +4,8 @@
   "info": {
     "singularName": "our-story",
     "pluralName": "our-stories",
-    "displayName": "Our Story"
+    "displayName": "Our Story",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -15,13 +16,13 @@
       "type": "string"
     },
     "paragraphOne": {
-      "type": "string"
+      "type": "text"
     },
     "paragraphTwo": {
-      "type": "string"
+      "type": "text"
     },
     "paragraphThree": {
-      "type": "string"
+      "type": "text"
     }
   }
 }

@@ -19,31 +19,31 @@
       "type": "string"
     },
     "description": {
-      "type": "string"
+      "type": "text"
     },
     "bucketOne": {
       "type": "string"
     },
     "bucketOneDescription": {
-      "type": "string"
+      "type": "text"
     },
     "bucketTwo": {
       "type": "string"
     },
     "bucketTwoDescription": {
-      "type": "string"
+      "type": "text"
     },
     "bucketThree": {
       "type": "string"
     },
     "bucketThreeDescription": {
-      "type": "string"
+      "type": "text"
     },
     "bucketFour": {
       "type": "string"
     },
     "bucketFourDescription": {
-      "type": "string"
+      "type": "text"
     },
     "heroTextLower": {
       "type": "string"
