@@ -1,0 +1,52 @@
+{
+  "kind": "singleType",
+  "collectionName": "serviced",
+  "info": {
+    "singularName": "service",
+    "pluralName": "serviced",
+    "displayName": "Services",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heroTextUpper": {
+      "type": "string"
+    },
+    "heroSubtext": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "bucketOne": {
+      "type": "string"
+    },
+    "bucketOneDescription": {
+      "type": "string"
+    },
+    "bucketTwo": {
+      "type": "string"
+    },
+    "bucketTwoDescription": {
+      "type": "string"
+    },
+    "bucketThree": {
+      "type": "string"
+    },
+    "bucketThreeDescription": {
+      "type": "string"
+    },
+    "bucketFour": {
+      "type": "string"
+    },
+    "bucketFourDescription": {
+      "type": "string"
+    },
+    "heroTextLower": {
+      "type": "string"
+    }
+  }
+}
