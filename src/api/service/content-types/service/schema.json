@@ -18,7 +18,7 @@
     "heroSubtext": {
       "type": "string"
     },
-    "description": {
+    "heroDescription": {
       "type": "text"
     },
     "bucketOne": {
@@ -47,6 +47,19 @@
     },
     "heroTextLower": {
       "type": "string"
+    },
+    "whiteBox": {
+      "type": "string"
+    },
+    "carouselImages": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
     }
   }
 }
