@@ -4,7 +4,7 @@
   "info": {
     "singularName": "service",
     "pluralName": "serviced",
-    "displayName": "Services",
+    "displayName": "Capabilities",
     "description": ""
   },
   "options": {
@@ -52,14 +52,15 @@
       "type": "string"
     },
     "carouselImages": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     }
   }
 }
