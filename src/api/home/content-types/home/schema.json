@@ -12,14 +12,14 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "heroLineTwo": {
-      "type": "string"
-    },
-    "heroSubtext": {
-      "type": "string"
-    },
-    "heroLineOne": {
-      "type": "string"
+    "Content": {
+      "type": "dynamiczone",
+      "components": [
+        "cards.content",
+        "gallery.gallery",
+        "hero.hero",
+        "rich-text-field.rich-text-field"
+      ]
     }
   }
 }
